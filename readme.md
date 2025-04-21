@@ -20,6 +20,6 @@ HTML, CSS, JavaScript
 ## 📥 Download & Installation  
 Clone the repository using Git:  
 ```bash
-git clone https://github.com/aklema094/new-year-countdown.git
+git clone https://github.com/luminous44/new-year-countdown.git
 ```  
-Or download the ZIP file manually from [here](https://github.com/aklema094/new-year-countdown/archive/refs/heads/main.zip).  
+Or download the ZIP file manually from [here](https://github.com/luminous44/new-year-countdown/archive/refs/heads/main.zip).  
